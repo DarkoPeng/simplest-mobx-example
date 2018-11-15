@@ -11,7 +11,8 @@
   "keywords": [
     "mobx",
     "react",
-    "mobx-react"
+    "mobx-react",
+    "parcel"
   ],
   "author": "Darko Li",
   "license": "MIT",
