@@ -1,16 +1,24 @@
 {
   "name": "simplest-mobx-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "simplest mobx + react example",
   "main": "index.js",
   "scripts": {
     "start": "npx parcel index.html",
     "build": "npx parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "libp",
+  "keywords": [
+    "mobx",
+    "react",
+    "mobx-react"
+  ],
+  "author": "Darko Li",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkoPeng/simplest-mobx-example.git"
+  },  
   "devDependencies": {
     "@babel/core": "7.1.6",
     "@babel/plugin-proposal-class-properties": "7.1.0",
